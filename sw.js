@@ -1,1 +1,1 @@
-importScripts('./sw-1.0.1-af4b5af95641.js');
+importScripts('./sw-1.0.4-7cfbdc852ed9.js');
